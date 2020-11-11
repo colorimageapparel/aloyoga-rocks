@@ -1,1 +1,1 @@
-{"applinks":{"apps":[],"details":[{"appID":"com.follow.AloYogaProd","paths":["NOT /admin/*","NOT /*/amazon_payments/callback","NOT /*/checkouts/*/express/callback","/*"]}]},"webcredentials":{"apps":["com.follow.AloYogaProd"]}}
+{"applinks":{"apps":[],"details":[{"appID":"3ZK98N757X.com.follow.AloYogaProd","paths":["NOT /admin/*","NOT /*/amazon_payments/callback","NOT /*/checkouts/*/express/callback","/*"]}]},"webcredentials":{"apps":["3ZK98N757X.com.follow.AloYogaProd"]}}
